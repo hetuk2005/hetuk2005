@@ -4,6 +4,11 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm HETUK PATEL</h1>
+<img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Old+English&weight=800&size=30&pause=1000&color=green&width=435&lines=I+Am+Hetuk+Vinod+Patel" alt="Typing SVG" />
+  </a>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/hetuk2005/media/main/front-end-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--java-logo-programming-languages-web-development-software-and-qa-process-pack-people-animations-4453020.gif" width="400"/>
