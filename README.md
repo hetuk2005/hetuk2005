@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm HETUK PATEL</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hetuk2005/media/main/front-end-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--java-logo-programming-languages-web-development-software-and-qa-process-pack-people-animations-4453020.gif" width="400" />
-  <img src="https://raw.githubusercontent.com/hetuk2005/media/main/back-end-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--front-web-development-computing-pack-school-education-animations-3428942.gif" width="400" />
-</p>
+  <img src="https://raw.githubusercontent.com/hetuk2005/media/main/front-end-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--java-logo-programming-languages-web-development-software-and-qa-process-pack-people-animations-4453020.gif" width="400" align="right"/><br>
+  <img src="https://raw.githubusercontent.com/hetuk2005/media/main/back-end-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--front-web-development-computing-pack-school-education-animations-3428942.gif" width="400" align="right"/>
 
 
 - 🌱 I’m currently learning **JavaScript, React**
