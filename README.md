@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetuk2005&show_icons=true&locale=en" alt="hetuk2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetuk2005&" alt="hetuk2005" /></p>
-<img src="https://camo.githubusercontent.com/089606545664a24b07681f6a833561d6dba40fa6def7e043446222fd726b7b95/68747470733a2f2f6b656e747375737461696e6162696c6974792e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f4b532d312e676966">
+<img src="https://raw.githubusercontent.com/hetuk2005/media/main/Intro.gif">
