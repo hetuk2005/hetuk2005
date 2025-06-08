@@ -41,9 +41,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetuk2005&show_icons=true&locale=en&layout=compact" alt="hetuk2005" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetuk2005&show_icons=true&locale=en" alt="hetuk2005" /></p>
-<p align="center"> 
-  <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="70%" height="70%" />
-</p>
 </div>
 
 <div align="center">
