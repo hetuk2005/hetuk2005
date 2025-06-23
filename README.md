@@ -61,6 +61,11 @@
 </div>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetuk2005&" alt="hetuk2005" /></p>
+
+   <p align="center">
+    <a href="https://github.com/mehfoozkhangithub/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
+    </a>
+</p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <img src="https://raw.githubusercontent.com/hetuk2005/media/main/Intro.gif">
