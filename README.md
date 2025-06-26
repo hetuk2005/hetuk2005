@@ -44,13 +44,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/hetuk2005">
-    <img 
-      title="🔥 GitHub Streak Stats" 
-      alt="hetuk2005's streak" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=hetuk2005&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"
-    />
-  </a>
+  <img 
+    title="🔥 GitHub Streak Stats" 
+    alt="hetuk2005's streak" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hetuk2005&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"
+  />
 </p>
 
 <br>
