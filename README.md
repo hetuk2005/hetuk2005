@@ -10,7 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Old+English&weight=800&size=30&pause=1000&color=green&width=435&lines=I+Am+Hetuk+Patel" alt="Typing SVG" />
   </a>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetuk2005&label=Profile%20views&color=0e75b6&style=flat" alt="Hetuk Patel" /> </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/hetuk2005/media/main/front-end-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--java-logo-programming-languages-web-development-software-and-qa-process-pack-people-animations-4453020.gif" width="400"/>
   <img src="https://raw.githubusercontent.com/hetuk2005/media/main/back-end-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--front-web-development-computing-pack-school-education-animations-3428942.gif" width="400"/>
