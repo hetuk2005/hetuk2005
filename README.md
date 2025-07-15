@@ -50,7 +50,7 @@
     <img 
       title="🔥 Get streak stats for your profile at git.io/streak-stats" 
       alt="hetuk2005's streak" 
-      src="[![GitHub Streak](https://streak-stats.demolab.com/?user=hetuk2005&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)"
+      src="https://streak-stats.demolab.com/?user=hetuk2005&theme=tokyonight&hide_border=true"
     />
   </a>
 </p>
