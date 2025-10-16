@@ -62,10 +62,10 @@
 <br>
 <div align="center">
  <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/hetuk2005/hetuk2005/blob/main/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/hetuk2005/hetuk2005/blob/main/github-contribution-grid-snake.svg" />
-<img alt="github-contribution-grid-snake" src="https://github.com/hetuk2005/hetuk2005/blob/main/github-contribution-grid-snake-dark.svg" />
-</picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hetuk2005/hetuk2005/main/github-contribution-grid-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hetuk2005/hetuk2005/main/github-contribution-grid-snake.svg" />
+   <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/hetuk2005/hetuk2005/main/github-contribution-grid-snake-dark.svg" />
+ </picture>
 </div>
 <br>
 
