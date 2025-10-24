@@ -39,10 +39,10 @@
 
 <p align="center">
 <br/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg3&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=gold&style=for-the-badge" />
-<img alt="JavaScript" src="https://img.shields.io/badge/React-323330?logo=react&logoColor=gold&style=for-the-badge" />
+<img alt="React" src="https://img.shields.io/badge/React-323330?logo=react&logoColor=gold&style=for-the-badge" />
 <br/>
 </p>
 
