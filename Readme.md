@@ -46,9 +46,17 @@
 <br/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetuk2005&show_icons=true&locale=en&layout=compact" alt="hetuk2005" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetuk2005&show_icons=true&locale=en" alt="hetuk2005" /></p>
+<p >
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hetuk2005&show_icons=true&locale=en&layout=compact&bg_color=0,000000,003300&title_color=ADFF2F&text_color=9ACD32&icon_color=7FFF00&cache_seconds=100" 
+    alt="Top Languages" 
+  />
+  <br><br>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hetuk2005&show_icons=true&locale=en&bg_color=0,000000,003300&title_color=ADFF2F&text_color=9ACD32&icon_color=7FFF00&cache_seconds=100" 
+    alt="GitHub Stats" 
+  />
+</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats" style="text-decoration:none;">
