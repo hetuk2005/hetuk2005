@@ -1,10 +1,10 @@
+<div align="center">
+ <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines=Hello+Everyone+!;I+Am+Hetuk+Patel&color=teal&center=true"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm HETUK PATEL</h1>
 
 <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif">
-
-<div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
-</div>
 
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
