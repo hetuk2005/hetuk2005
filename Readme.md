@@ -44,12 +44,12 @@
 
 <p >
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetuk2005&layout=compact&bg_color=000000&title_color=ADFF2F&text_color=9ACD32" 
+    src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=hetuk2005&layout=compact&bg_color=000000&title_color=ADFF2F&text_color=9ACD32&cache_seconds=60" 
     alt="Top Languages" 
   />
   <br><br>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hetuk2005&show_icons=true&locale=en&bg_color=0,000000,003300&title_color=ADFF2F&text_color=9ACD32&icon_color=7FFF00&cache_seconds=100" 
+    src="https://github-readme-stats-godkingjay.vercel.app/api?username=hetuk2005&show_icons=true&locale=en&bg_color=0,000000,003300&title_color=ADFF2F&text_color=9ACD32&icon_color=7FFF00&cache_seconds=60" 
     alt="GitHub Stats" 
   />
 </p>
@@ -59,7 +59,7 @@
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="Hetuk's streak"
-      src="https://streak-stats.demolab.com?user=hetuk2005&theme=chartreuse-dark&hide_border=true"
+      src="https://github-readme-streak-stats.herokuapp.com?user=hetuk2005&theme=chartreuse-dark&hide_border=true"
     />
   </a>
 </p>
