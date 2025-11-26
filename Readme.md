@@ -44,7 +44,7 @@
 
 <p >
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hetuk2005&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ADFF2F&text_color=9ACD32&icon_color=7FFF00&cache_seconds=100" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetuk2005&layout=compact&bg_color=000000&title_color=ADFF2F&text_color=9ACD32" 
     alt="Top Languages" 
   />
   <br><br>
