@@ -42,15 +42,15 @@
 <br/>
 </p>
 
-<p >
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hetuk2005&theme=chartreuse-dark&show_icons=true" 
-    alt="Top Languages" 
-  />
-  <br><br>
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=chartreuse-dark" 
     alt="GitHub Stats" 
+  />
+  <br><br>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hetuk2005&theme=chartreuse-dark&show_icons=true" 
+    alt="Top Languages" 
   />
 </p>
 
