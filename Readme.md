@@ -28,7 +28,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hetuk_patel2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hetuk_patel2005" height="30" width="40" /></a>
+<a href="https://instagram.com/hetuk_patel2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hetuk_patel2005" height="31" width="45" /></a>
+ 
+<a href="https://www.linkedin.com/in/hetuk-patel-169a30384/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hetuk_patel" height="31" width="45" />
+</a>
+
+<a href="https://wa.me/919766731571" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="31" width="45" />
+</a>
 </p>
 
 ## 👨‍💻 Tech Stack I am Familiar With
