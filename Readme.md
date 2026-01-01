@@ -52,7 +52,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=chartreuse-dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetuk2005&layout=compact&theme=chartreuse-dark" 
     alt="GitHub Stats" 
   />
   <br><br>
