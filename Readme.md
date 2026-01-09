@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/hetuk2005/media/main/Enjoy.gif" width="400"/>
 </p>
 
-- 🌱 I'm currently learning **JavaScript, React**
+- 🌱 I'm currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hetuk2005/webDevelopment.git](https://github.com/hetuk2005/webDevelopment.git)
 
