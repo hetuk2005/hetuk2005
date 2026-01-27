@@ -50,10 +50,8 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetuk2005&layout=compact&theme=chartreuse-dark" 
-    alt="GitHub Stats" 
-  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetuk2005&layout=compact&theme=chartreuse-dark&cache_seconds=86400"  
+    alt="GitHub Stats"/>
   <br><br>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=hetuk2005&theme=chartreuse-dark&show_icons=true" 
