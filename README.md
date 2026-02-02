@@ -1,4 +1,3 @@
-Hello Everyone!
 
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&weight=700&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines=Hello+Everyone+!;I+Am+Hetuk+Patel"  />
