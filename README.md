@@ -62,7 +62,7 @@
 </p>
 
 <div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&weight=700&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines=ABKI+BAAR+300+KE+PAR+😂+🤯+😂"  />
+ <img  src="https://github.com/hetuk2005/webDevelopment/blob/main/TextSVG.svg" alt="Animated Banner" />
 </div>
 
 <p align="center">
@@ -88,63 +88,3 @@
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <img src="https://raw.githubusercontent.com/hetuk2005/media/main/Intro.gif">
-<!-- refreshed Wed Jan 28 02:12:16 UTC 2026 -->
-<!-- refreshed Thu Jan 29 02:34:47 UTC 2026 -->
-<!-- refreshed Fri Jan 30 02:34:31 UTC 2026 -->
-<!-- refreshed Sat Jan 31 02:30:16 UTC 2026 -->
-<!-- refreshed Sun Feb  1 02:55:55 UTC 2026 -->
-<!-- refreshed Mon Feb  2 02:45:03 UTC 2026 -->
-<!-- refreshed Tue Feb  3 02:41:36 UTC 2026 -->
-<!-- refreshed Wed Feb  4 02:35:55 UTC 2026 -->
-<!-- refreshed Thu Feb  5 02:37:51 UTC 2026 -->
-<!-- refreshed Fri Feb  6 02:38:17 UTC 2026 -->
-<!-- refreshed Sat Feb  7 02:33:10 UTC 2026 -->
-<!-- refreshed Sun Feb  8 03:17:05 UTC 2026 -->
-<!-- refreshed Mon Feb  9 02:45:59 UTC 2026 -->
-<!-- refreshed Tue Feb 10 02:54:24 UTC 2026 -->
-<!-- refreshed Wed Feb 11 02:52:23 UTC 2026 -->
-<!-- refreshed Thu Feb 12 02:47:58 UTC 2026 -->
-<!-- refreshed Fri Feb 13 02:48:13 UTC 2026 -->
-<!-- refreshed Sat Feb 14 02:35:15 UTC 2026 -->
-<!-- refreshed Sun Feb 15 02:49:09 UTC 2026 -->
-<!-- refreshed Mon Feb 16 02:44:30 UTC 2026 -->
-<!-- refreshed Tue Feb 17 02:40:48 UTC 2026 -->
-<!-- refreshed Wed Feb 18 02:44:21 UTC 2026 -->
-<!-- refreshed Thu Feb 19 02:43:25 UTC 2026 -->
-<!-- refreshed Fri Feb 20 02:38:06 UTC 2026 -->
-<!-- refreshed Sat Feb 21 02:31:47 UTC 2026 -->
-<!-- refreshed Sun Feb 22 02:44:20 UTC 2026 -->
-<!-- refreshed Mon Feb 23 02:44:40 UTC 2026 -->
-<!-- refreshed Tue Feb 24 02:41:45 UTC 2026 -->
-<!-- refreshed Wed Feb 25 02:42:14 UTC 2026 -->
-<!-- refreshed Thu Feb 26 02:37:59 UTC 2026 -->
-<!-- refreshed Fri Feb 27 02:36:06 UTC 2026 -->
-<!-- refreshed Sat Feb 28 02:25:47 UTC 2026 -->
-<!-- refreshed Sun Mar  1 02:51:29 UTC 2026 -->
-<!-- refreshed Mon Mar  2 02:39:17 UTC 2026 -->
-<!-- refreshed Tue Mar  3 02:42:08 UTC 2026 -->
-<!-- refreshed Wed Mar  4 02:34:20 UTC 2026 -->
-<!-- refreshed Thu Mar  5 02:37:25 UTC 2026 -->
-<!-- refreshed Fri Mar  6 02:35:01 UTC 2026 -->
-<!-- refreshed Sat Mar  7 02:28:37 UTC 2026 -->
-<!-- refreshed Sun Mar  8 02:41:39 UTC 2026 -->
-<!-- refreshed Mon Mar  9 02:43:10 UTC 2026 -->
-<!-- refreshed Tue Mar 10 02:33:46 UTC 2026 -->
-<!-- refreshed Wed Mar 11 02:33:05 UTC 2026 -->
-<!-- refreshed Thu Mar 12 02:39:23 UTC 2026 -->
-<!-- refreshed Fri Mar 13 02:37:03 UTC 2026 -->
-<!-- refreshed Sat Mar 14 02:34:59 UTC 2026 -->
-<!-- refreshed Sun Mar 15 02:56:04 UTC 2026 -->
-<!-- refreshed Mon Mar 16 02:56:13 UTC 2026 -->
-<!-- refreshed Tue Mar 17 02:39:19 UTC 2026 -->
-<!-- refreshed Wed Mar 18 02:45:42 UTC 2026 -->
-<!-- refreshed Thu Mar 19 02:47:06 UTC 2026 -->
-<!-- refreshed Fri Mar 20 02:37:52 UTC 2026 -->
-<!-- refreshed Sun Mar 22 02:47:59 UTC 2026 -->
-<!-- refreshed Mon Mar 23 02:48:14 UTC 2026 -->
-<!-- refreshed Tue Mar 24 02:39:31 UTC 2026 -->
-<!-- refreshed Wed Mar 25 02:44:40 UTC 2026 -->
-<!-- refreshed Thu Mar 26 02:51:42 UTC 2026 -->
-<!-- refreshed Fri Mar 27 02:53:48 UTC 2026 -->
-<!-- refreshed Sat Mar 28 02:43:32 UTC 2026 -->
-<!-- refreshed Sun Mar 29 03:16:22 UTC 2026 -->
