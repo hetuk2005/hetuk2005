@@ -61,10 +61,6 @@
   />
 </p>
 
-<div align="center">
- <img  src="https://github.com/hetuk2005/webDevelopment/blob/main/TextSVG.svg" alt="Animated Banner" />
-</div>
-
 <p align="center">
   <a href="https://git.io/streak-stats" style="text-decoration:none;">
     <img
